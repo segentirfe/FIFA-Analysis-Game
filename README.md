@@ -1,2 +1,2 @@
 Here is the link to original GitHub repository from my old GitHub account: https://github.com/Segent/FifaStats
-<img width="1439" height="899" alt="Screen Shot 2026-03-25 at 11 05 17 PM" src="https://github.com/user-attachments/assets/6c02a2ab-e68c-4092-956a-14dde309e01b" />
+<img width="398" height="385" alt="Screen Shot 2026-03-26 at 3 11 25 PM" src="https://github.com/user-attachments/assets/47a2c14e-d7ac-4906-9100-8c58f48224da" />
