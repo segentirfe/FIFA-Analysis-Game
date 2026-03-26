@@ -1,6 +1,5 @@
 The link to original GitHub repository from my old GitHub account: https://github.com/Segent/FifaStats
 
-Home Page of FIFA Analysis Game
 
-
-<img width="398" height="385" alt="Screen Shot 2026-03-26 at 3 11 25 PM" src="https://github.com/user-attachments/assets/47a2c14e-d7ac-4906-9100-8c58f48224da" />
+Goal of the FIFA Analysis Game:
+To display information in a fun interactive way of FIFA analysis game from the 2019 dataset. It has 5 interactive buttons that display quiz, visualizations, and statistics on the players. It was my first time learning Object-Oriented Python so it has some bugs that I plan on troubleshooting.
